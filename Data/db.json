@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum...",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Web Developers",
+      "body": "As web developers, we constantly find ourselves navigating the ever-evolving landscape of web development tools and libraries. Recently, I encountered a scenario that many React developers might face: upgrading from react-router-dom v5 to v6. While these updates bring numerous enhancements, they can also introduce breaking changes that require us to adjust our code. In this blog post, I'll walk you through one such change involving the transition from Switch to Routes.",
+      "author": "Jane Doe",
+      "id": "2"
+    },
+    {
+      "title": "Meditation",
+      "body": "In today's fast-paced world, it's easy to feel overwhelmed and stressed. One effective way to manage this stress is through mindfulness meditation. This practice has gained popularity in recent years for its numerous benefits on mental and physical health. In this blog post, we'll explore what mindfulness meditation is and how it can improve your well-being.",
+      "author": "Emily Johnson",
+      "id": "3"
+    }
+  ]
+}
